@@ -16,7 +16,7 @@ B/W is a 2D-platformer game featuring an innovative color-switching mechanic. As
 
 ### Playable WebGL
 
-<a href="[超链接地址](https://rershallzzz.github.io/CSCI526-prototype/)">[超链接显示名](https://rershallzzz.github.io/CSCI526-prototype/)</a>
+<a href="https://rershallzzz.github.io/CSCI526-prototype/">https://rershallzzz.github.io/CSCI526-prototype/</a>
 
 ### Prototype examples
 
